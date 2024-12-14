@@ -21,6 +21,7 @@ Step 4: Save Metadata in JSON or Pickle Format
 The dataset's image filenames and labels are saved in a structured format, such as a JSON or pickle file, for easy loading during training and evaluation. Below is an example of a JSON file structure:
 
 [
+   
     {"image": "ISIC_0028049", "label": "NV"},
     
     {"image": "ISIC_0060326", "label": "MEL"},
