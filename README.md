@@ -22,7 +22,9 @@ The dataset's image filenames and labels are saved in a structured format, such 
 
 [
     {"image": "ISIC_0028049", "label": "NV"},
+    
     {"image": "ISIC_0060326", "label": "MEL"},
+    
     {"image": "ISIC_0014851_downsampled", "label": "NV"},
     ...
 ]
@@ -37,6 +39,8 @@ pip install -r requirements.txt
 ##  Traning Loss
 
 CE1 Loss: Cross-Entropy Loss for the original image
+
 CE2 Loss: Cross-Entropy Loss for the transformed image
+
 CAAM Loss: Loss between the transformed original CAAM and the CAAM of the transformed image
 
