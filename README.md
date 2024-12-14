@@ -33,7 +33,7 @@ To install the required dependencies for this project, use the following command
 
 ```bash
 pip install -r requirements.txt
-
+```
 ##  Traning Loss
 
 CE1 Loss: Cross-Entropy Loss for the original image
