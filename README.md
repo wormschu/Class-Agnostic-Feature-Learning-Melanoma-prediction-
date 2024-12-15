@@ -1,6 +1,6 @@
 # Class agnostic feature learning- (using class agnostic activation map)
 
-## ISIC 2019 image dataset preparation
+## ISIC image dataset preparation
 This repository outlines the process for preparing the ISIC 2019 dataset for training and evaluation purposes.
 
 Step 1: Combine Train and Validation Sets
